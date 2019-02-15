@@ -1,0 +1,5 @@
+git init 
+git add . (закинуть все файлы)
+git add filename.format (zakinut odin fail)
+git commit -m "Comments"
+git push 
